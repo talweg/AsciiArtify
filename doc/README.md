@@ -16,6 +16,7 @@ k3d - K3s is a minified version of Kubernetes developed by Rancher Labs. By remo
 
 ## Demonstration
 
+![demo](../img/task_4.gif)
 
 ## Results
 
